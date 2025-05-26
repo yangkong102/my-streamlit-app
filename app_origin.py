@@ -6,13 +6,13 @@ import time
 # Firebase 설정
 # ---------------------
 const firebase_config = {
-  apiKey: "AIzaSyAj6kAyVtdrl7-HwRa4n_fAHCwCmbS4xD4",
-  authDomain: "sw-project-95ba2.firebaseapp.com",
-  databaseURL: "https://sw-project-95ba2-default-rtdb.firebaseio.com",
-  projectId: "sw-project-95ba2",
-  storageBucket: "sw-project-95ba2.firebasestorage.app",
-  messagingSenderId: "926917807083",
-  appId: "1:926917807083:web:48f677368175f9ea7ea7ae"
+    apiKey: "AIzaSyCswFmrOGU3FyLYxwbNPTp7hvQxLfTPIZw",
+    authDomain: "sw-projects-49798.firebaseapp.com",
+    databaseURL: "https://sw-projects-49798-default-rtdb.firebaseio.com&quot;,
+    projectId: "sw-projects-49798",
+    storageBucket: "sw-projects-49798.firebasestorage.app",
+    messagingSenderId: "812186368395",
+    appId: "1:812186368395:web:be2f7291ce54396209d78e"
 };
 
 # Firebase 초기화 및 서비스 연결
